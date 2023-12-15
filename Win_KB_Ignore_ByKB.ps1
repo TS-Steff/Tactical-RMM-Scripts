@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
     Set Windows Patches to Ignore by KB Number
+    This will automatically be ran on every Agent
 
 .REQUIREMENTS
     - You will need an API key from Tactical RMM which should be passed as parameters (DO NOT hard code in script). Do not run this on each agent (see notes).
